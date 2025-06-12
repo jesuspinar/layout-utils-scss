@@ -59,7 +59,7 @@ A utility-first SCSS file designed to simplify the creation of responsive and fl
 
 ---
 
-## 🧱 CSS Grid System
+## 🧱 Grid System
 
 ### Basic Grid
 
